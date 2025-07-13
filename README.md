@@ -89,6 +89,20 @@ To help financial analysts and stakeholders:
 ---
 
 ## 🚀 How to Use
+
 1. **Clone the repository**
    ```bash
-   https://github.com/AACHAL2303PATIL/Loan-Analysis-Dashboard
+   git clone https://github.com/AACHAL2303PATIL/Loan-Analysis-Dashboard
+   ```
+2. **Open the `.pbix` file** in Power BI Desktop  
+3. **Ensure Power BI Gateway is configured** if you're using scheduled/incremental refresh  
+4. **Connect to the dataset** using the link below or your own data
+
+---
+
+## 📂 Dataset
+
+The dataset used for this project contains loan application records with fields like age, income, loan amount, credit score, employment type, and more.
+
+🔗 [Click here to access the dataset](https://drive.google.com/file/d/1LxdlX7Yh6IrifvobCMpdk9i0jH-raSqF/view)
+
