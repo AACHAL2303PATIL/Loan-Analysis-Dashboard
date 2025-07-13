@@ -83,8 +83,8 @@ To help financial analysts and stakeholders:
 
 - **Dashboard Overview**  
   ![Loan Dashboard 1](https://github.com/AACHAL2303PATIL/Loan-Analysis-Dashboard/blob/main/Loan%20Dashboard%201.png)
-  ![Loan Dashboard 1](https://github.com/AACHAL2303PATIL/Loan-Analysis-Dashboard/blob/main/Loan%20Dashboard%202.png)
-  ![Loan Dashboard 1](https://github.com/AACHAL2303PATIL/Loan-Analysis-Dashboard/blob/main/Loan%20Dashboard%203.png)
+  ![Loan Dashboard 2](https://github.com/AACHAL2303PATIL/Loan-Analysis-Dashboard/blob/main/Loan%20Dashboard%202.png)
+  ![Loan Dashboard 3](https://github.com/AACHAL2303PATIL/Loan-Analysis-Dashboard/blob/main/Loan%20Dashboard%203.png)
 
 ---
 
