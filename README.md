@@ -36,14 +36,18 @@ To help financial analysts and stakeholders:
 ---
 
 ## 🧠 Key Features
-- ✔️ Dataflow connection & import
-- ✔️ Data transformation with Power Query
-- ✔️ Advanced DAX Measures:
-  - `SUMX`, `AVERAGE`, `CALCULATE`, `FILTER`, `ALLEXCEPT`, `SWITCH`, `MEDIANX`
-- ✔️ YOY and Default Loan Amount metrics
-- ✔️ Decomposition Tree visualization
-- ✔️ Incremental and Scheduled Refresh configuration
-- ✔️ Responsive reports using clustered column & line charts
+- ✔️ Ingested **250K+ loan records** using Power BI Dataflows and Power Query  
+- ✔️ Created **15+ custom DAX measures** using functions like `CALCULATE`, `SUMX`, `SWITCH`, etc.  
+- ✔️ Built **interactive visuals** including:
+  - Donut Charts
+  - Line Charts
+  - Clustered Column Charts
+  - Decomposition Tree
+- ✔️ Configured **automated dashboard updates** with:
+  - **Scheduled Refresh**
+  - **Incremental Refresh** via Power BI Service  
+- ✔️ Enabled YOY, default risk segmentation, and behavioral trend analysis  
+- ✔️ Delivered **responsive and mobile-friendly dashboards** for business users
 
 ---
 
@@ -73,6 +77,14 @@ To help financial analysts and stakeholders:
 - 💼 Improves loan product targeting.
 - 📊 Helps track financial trends over time.
 - ✅ Enables actionable insights for stakeholders.
+
+---
+## 🖼️ Screenshots
+
+- **Dashboard Overview**  
+  ![Loan Dashboard 1](https://github.com/AACHAL2303PATIL/Loan-Analysis-Dashboard/blob/main/Loan%20Dashboard%201.png)
+  ![Loan Dashboard 1](https://github.com/AACHAL2303PATIL/Loan-Analysis-Dashboard/blob/main/Loan%20Dashboard%202.png)
+  ![Loan Dashboard 1](https://github.com/AACHAL2303PATIL/Loan-Analysis-Dashboard/blob/main/Loan%20Dashboard%203.png)
 
 ---
 
